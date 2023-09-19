@@ -1,4 +1,4 @@
-### Hi, My name is Denis 👋
+### Hi, my name is Denis 👋
 ## I'm a novice developer
 
 I am currently learning python 
